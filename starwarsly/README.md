@@ -1,14 +1,10 @@
 # StarWars.ly
 
----
-
 ### Everything about the Star Wars Universe
 
 It is an app for exploring the people, planets, and films of the Star Wars franchise.
 
 ## Using the App
-
----
 
 The app starts off with single button, a link to the first firm on the homepage, the rest of the links are marked as "unknowns" and will be hidden from the user. As the users explore and access the "unknowns" the links will reveal the topics they discover and keep it visible to the user.
 
@@ -25,8 +21,6 @@ This App is using Redux to store the state of the app. The state in the componen
 - Axios and the [Star Wars API](https://swapi.dev)
 
 ## Installing the app on Local Environment
-
----
 
 To get the code on your local machine, clone the repository and install the dependencies:
 
@@ -59,7 +53,5 @@ To get the code on your local machine, clone the repository and install the depe
       - Sublist (films)
 
 ### Created By
-
----
 
 This app was developed by the [Rithm School](https://www.rithmschool.com)
